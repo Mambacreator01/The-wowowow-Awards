@@ -1,0 +1,65 @@
+img {
+    width: 350px;
+    border: 8px inset;
+    color: red;
+}
+body {background-image: url(https://images.vexels.com/media/users/17482/100612/preview2/46b7841ff434706951fd3cb6369dd33c-abstract-color-background-with-squares-and-glitter.png);
+Text-align:center;
+color:green;
+}
+
+h1 {
+    text-align: center;
+    color: YEllow;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h2 {
+    color: Green;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Orbitron', sans-serif;
+}
+h3 {
+    font-family: 'Faster One', cursive;
+    font-size: 32px;
+    color: orange;
+}
+.avengers{
+    color:green;
+    background-color: orange;
+}
+.juice{
+    color:orange;
+    background-color: blue;
+}
+.game {
+    background-color: black;
+    color: yellow;
+    font-size:40px;
+}
+.fifa {
+    background-color:Yellow;
+    color:blue;
+font-size:30px;
+}
+.artist{
+     background-color:brown;
+    color:green;
+font-size:40px;
+}
+.pa {
+    color:blue;
+    background-color:yellow;
+}
+.fa{
+     color:red;
+    background-color:yellow;
+}
+.img{
+    Color: Yellow;
+    background-color:Blue;
+    font-size:45px;
+}
